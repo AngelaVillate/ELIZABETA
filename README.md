@@ -3,6 +3,10 @@ MIA
 
 # By Angela Cristina Villate
 
+### Consulta en formato web  
+<a href="https://angelavillate.github.io/ELIZABETA/">Visualización Web </a>
+Encuentra aquí la arquitectura de Elizabeta 
+
 En este espacio podrás encontrar los códigos que fueron utilizados para el desarrollo de "Elizabeta, solución de conflictos mediante IA. Diseño, entrenamiento y comparación de la efectividad de modelos para la toma de decisiones", investigación desarrollada en el marco de la maestría en IA de la Universidad Internacional de la Rioja durante el periodo 2023-2024,
 
 Algunas ideas sobre Elizabeta: 
