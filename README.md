@@ -21,7 +21,7 @@ Los códigos desarrollados para hacer posible a ElizaBeta
 
 Procesos de scraping, se incluye, incluso el proceso de scraping fallido, debido a las políticas de la págia
 
-<a href="https://nbviewer.org/github/github/AngelaVillate/ELIZABETA/blob/main/ScrapingLaudoaLaudo_Bog.ipynb">Web Scraping de Laudos</a>
+<a href="https://nbviewer.org/github/AngelaVillate/ELIZABETA/blob/main/ScrapingLaudoaLaudo_Bog.ipynb">Web Scraping de Laudos</a>
 Encuentra aquí la recolección de laudos arbitrales en materia societaria
 
 <a href="https://nbviewer.org/github/github.com/AngelaVillate/ELIZABETA/blob/main/ScrapingSuper.ipynb">Web Scraping (fallido) de Laudos en Supersociedades</a>
