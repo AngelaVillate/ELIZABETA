@@ -27,6 +27,8 @@ Encuentra aquí la recolección de laudos arbitrales en materia societaria
 <a href="https://nbviewer.org/github/AngelaVillate/ELIZABETA/blob/main/ScrapingSuper.ipynb">Web Scraping (fallido) de Laudos en Supersociedades</a>
 Encuentra aquí la recolección de laudos arbitrales en materia societaria
 
+<a href="https://github.com/AngelaVillate/ELIZABETA/blob/main/DatosModeloElizabeta.xlsx">Corpus completo</a>
+
 ##  2. Preprocesamiento de información
 Una vez recolectados los datos, se realizaron varias fases para su comprensión, preprocesamiento y estandarización para la elaboración del modelo
 
