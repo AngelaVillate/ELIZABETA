@@ -50,7 +50,7 @@ Encuentra aquí la elaboración de la nube de palabras ¿de qué se habla, cuand
 ## 3 Embeddings, de lo cualitativo a lo cuantitativo:
 Se hizo uso de modelos preentrandos transformers para generar los emebdings de los insights del modelo
 
-<a href="https://nbviewer.org/github/AngelaVillate/ELIZABETA/blob/main/Embedings%20(1).ipynb ">Nube de palabras </a>
+<a href="https://github.com/AngelaVillate/ELIZABETA/blob/main/EDA_y_embeddings%20(2).ipynb">Embeddings </a>
 Encuentra aquí el proceso mediante el cual se calcularon los embedings, se utilizó un modelo transformer preentrenado
 
 
