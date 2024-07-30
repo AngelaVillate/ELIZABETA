@@ -64,4 +64,9 @@ Encuentra aquí modelo RandomForest: ¡Hola, Elizabeta!
 Encuentra aquí modelo Red Neuronal
 Red Neuronal
 
+## 4 Elizabeta, versiones faliidas
+Se presentan las versiones que no resultaron óptimas para el modelo
+
+<a href="https://github.com/AngelaVillate/ELIZABETA/blob/main/Elizabeta_Hechos_y_Pretensiones.ipynb">Elizabeta, versiones fallidas </a>
+Encuentra aquí algunas de las versiones fallidas de Elizabeta
 
