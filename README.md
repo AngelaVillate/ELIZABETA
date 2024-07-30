@@ -57,7 +57,7 @@ Encuentra aquí el proceso mediante el cual se calcularon los embedings, se util
 ## 4 Diseño de modelos
 Se realizaron dos modelos para compara explicabilidad y métricas
 
-<a href="https://nbviewer.org/github/AngelaVillate/EELIZABETA/blob/main/Elizabeta.ipynb ">RandomForest </a>
+<a href= "https://github.com/AngelaVillate/ELIZABETA/blob/main/Elizabeta19.ipynb ">RandomForest </a>
 Encuentra aquí modelo RandomForest: ¡Hola, Elizabeta! 
 
 <a href="https://nbviewer.org/github/AngelaVillate/ELIZABETA/blob/main/red_neuronal%20(1).ipynb ">RedNeuronals </a>
