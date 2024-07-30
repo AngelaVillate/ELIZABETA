@@ -60,7 +60,7 @@ Se realizaron dos modelos para compara explicabilidad y métricas
 <a href= "https://github.com/AngelaVillate/ELIZABETA/blob/main/Elizabeta19.ipynb ">RandomForest </a>
 Encuentra aquí modelo RandomForest: ¡Hola, Elizabeta! 
 
-<a href="https://nbviewer.org/github/AngelaVillate/ELIZABETA/blob/main/red_neuronal%20(1).ipynb ">RedNeuronals </a>
+<a href="https://github.com/AngelaVillate/ELIZABETA/blob/main/RedNeuornal190724%20(1).ipynb ">RedNeuronal RNN </a>
 Encuentra aquí modelo Red Neuronal
 Red Neuronal
 
